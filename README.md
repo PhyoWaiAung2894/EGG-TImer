@@ -1,6 +1,7 @@
 # EGG-TImer
-<img src="https://raw.githubusercontent.com/PhyoWaiAung2894/EGG-TImer/assets/44761679/d3e4f3ad-1a55-4127-82e9-154d76869f09" width="200" height="400">
+<img src="https://github.com/PhyoWaiAung2894/EGG-TImer/assets/44761679/196d0a4e-1bd0-4d85-9936-073c031c1d9a.png" alt="Screenshot 1" width="200" height="400">
 
-<img src="https://raw.githubusercontent.com/PhyoWaiAung2894/EGG-TImer/assets/44761679/be4b8481-3a27-4fd5-86a9-92e83f9cb92f" width="200" height="400">
+<img src="https://github.com/PhyoWaiAung2894/EGG-TImer/assets/44761679/6fac415a-4f93-4df0-8e01-e0ed4e1c5e22.png" alt="Screenshot 2" width="200" height="400">
 
-<img src="https://raw.githubusercontent.com/PhyoWaiAung2894/EGG-TImer/assets/44761679/71c1d9f0-c898-4461-8089-d1ee430eaecf" width="200" height="400">
+<img src="https://github.com/PhyoWaiAung2894/EGG-TImer/assets/44761679/c7c2c719-e1f3-494a-b596-006a8fa17086.png" alt="Screenshot 3" width="200" height="400">
+
