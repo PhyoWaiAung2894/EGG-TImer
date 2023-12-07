@@ -7,16 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		46840EB02B22232400C39FFE /* alarmsound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 46840EAF2B22232400C39FFE /* alarmsound.wav */; };
 		468C5F742AC291650045F25A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468C5F732AC291650045F25A /* AppDelegate.swift */; };
 		468C5F762AC291650045F25A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468C5F752AC291650045F25A /* SceneDelegate.swift */; };
 		468C5F782AC291650045F25A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468C5F772AC291650045F25A /* ViewController.swift */; };
 		468C5F7B2AC291650045F25A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 468C5F792AC291650045F25A /* Main.storyboard */; };
 		468C5F7D2AC291660045F25A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 468C5F7C2AC291660045F25A /* Assets.xcassets */; };
 		468C5F802AC291660045F25A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 468C5F7E2AC291660045F25A /* LaunchScreen.storyboard */; };
-		468C5F882AC2F89B0045F25A /* alarmsound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 468C5F872AC2F89B0045F25A /* alarmsound.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		46840EAF2B22232400C39FFE /* alarmsound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = alarmsound.wav; path = "../../../Music/Music/Media.localized/Music/Unknown Artist/Unknown Album/alarmsound.wav"; sourceTree = "<group>"; };
 		468C5F702AC291650045F25A /* EGG TImer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EGG TImer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		468C5F732AC291650045F25A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		468C5F752AC291650045F25A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -25,7 +26,6 @@
 		468C5F7C2AC291660045F25A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		468C5F7F2AC291660045F25A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		468C5F812AC291660045F25A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		468C5F872AC2F89B0045F25A /* alarmsound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = alarmsound.wav; path = ../../../Downloads/alarmsound.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,8 +62,8 @@
 				468C5F752AC291650045F25A /* SceneDelegate.swift */,
 				468C5F772AC291650045F25A /* ViewController.swift */,
 				468C5F792AC291650045F25A /* Main.storyboard */,
+				46840EAF2B22232400C39FFE /* alarmsound.wav */,
 				468C5F7C2AC291660045F25A /* Assets.xcassets */,
-				468C5F872AC2F89B0045F25A /* alarmsound.wav */,
 				468C5F7E2AC291660045F25A /* LaunchScreen.storyboard */,
 				468C5F812AC291660045F25A /* Info.plist */,
 			);
@@ -128,7 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				468C5F882AC2F89B0045F25A /* alarmsound.wav in Resources */,
+				46840EB02B22232400C39FFE /* alarmsound.wav in Resources */,
 				468C5F802AC291660045F25A /* LaunchScreen.storyboard in Resources */,
 				468C5F7D2AC291660045F25A /* Assets.xcassets in Resources */,
 				468C5F7B2AC291650045F25A /* Main.storyboard in Resources */,

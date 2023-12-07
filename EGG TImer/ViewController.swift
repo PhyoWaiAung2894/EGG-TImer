@@ -54,6 +54,14 @@ class ViewController: UIViewController {
         {
             timer.invalidate()
             eggLabel.text = "Done"
+            let alert = UIAlertController(title: "Finish", message: "Your Egg is ready to eat", preferredStyle: .alert)
+            let action = UIAlertAction(title: "Done", style: .default) { _ in
+                self.timer.invalidate()
+                self.player.stop()
+                self.eggLabel.text = "How do you like your egg?"
+            }
+            alert.addAction(action)
+            self.present(alert, animated: true)
             playSound()
         }
     }
@@ -62,5 +70,11 @@ class ViewController: UIViewController {
         let url = Bundle.main.url(forResource: "alarmsound", withExtension: "wav")
         player = try! AVAudioPlayer (contentsOf: url!)
         player.play()
+    }
+    
+    func stopSound(){
+        let url = Bundle.main.url(forResource: "alarmsound", withExtension: "wav")
+        player = try! AVAudioPlayer (contentsOf: url!)
+        player.stop()
     }
 }
